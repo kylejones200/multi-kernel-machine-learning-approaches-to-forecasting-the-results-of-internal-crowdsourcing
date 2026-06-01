@@ -11,14 +11,7 @@ Between 2015 and 2017, ExxonMobil hosted more than 20 internal crowdsourcing ide
 
 The relatively long post-competition evaluation period made many competition participants feel as if their suggestions were not being used, negatively affecting employee morale. The authors' posited that a decision support system could be developed to reduce the time required to sort through idea submissions will still leveraging the benefits of non-traditional ideation through crowdsourcing.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
